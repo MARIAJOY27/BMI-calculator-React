@@ -1,0 +1,32 @@
+body{
+  overflow-x: hidden;
+  background-color: #C9C0BB;
+}
+.main{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  
+}
+.heading{
+  font-size: 50px;
+}
+.sub{
+  background-color: white;
+  width: 700px;
+  border-radius: 10px;
+  
+}
+
+.form{
+  margin-top: 18px;
+  margin-left: 64px;
+  
+}
+.input{
+  width: 86.5%;
+  
+}
+/* #DBAFA0 */
